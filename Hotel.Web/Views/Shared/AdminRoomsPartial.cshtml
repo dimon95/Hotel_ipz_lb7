@@ -1,0 +1,27 @@
+﻿@using Hotel.Model;
+@using Hotel.Dto;
+@model IList<RoomDto>
+
+@foreach ( RoomDto room in Model )
+{
+    string sOnRestavration = room.OnRestavration ? "Yeas" : "No";
+    string sHasCriteria = "";
+
+    <tr>
+        <td>@Html.ActionLink( room.Number.ToString(), "UpdateRoom", "Room", new { @id = room.Id }, null )</td>
+        <td>@room.Description</td>
+        <td>@room.PersonsCount</td>
+        <td>@room.BedCount</td>
+        <td>@room.Price</td>
+        <td>@sOnRestavration</td>
+        @foreach ( SearchCriteria sc in Enum.GetValues( typeof( SearchCriteria ) ) )
+        {
+            sHasCriteria = Utils.HasCriteria( room.SearchCriterias, sc ) ? "Yeas" : "No";
+
+            <td>@sHasCriteria</td>
+        }
+        <td>
+            @Html.ActionLink( "Delete", "DeleteRoom", "Room", new { @id = room.Id, @class = "btn btn-default" }, null )
+        </td>
+    </tr>
+}

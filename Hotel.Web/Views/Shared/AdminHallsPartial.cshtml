@@ -1,0 +1,19 @@
+﻿@using Hotel.Dto;
+
+@model IList<HallDto>
+
+@foreach ( HallDto hall in Model )
+{
+    string sOnRestavration = hall.OnRestavration ? "Yeas" : "No";
+
+    <tr>
+        <td>@Html.ActionLink( hall.Number.ToString(), "UpdateHall", "Hall", new { @id = hall.Id }, null )</td>
+        <td>@hall.Description</td>
+        <td>@hall.PersonsCount</td>
+        <td>@hall.Price</td>
+        <td>@sOnRestavration</td>
+        <td>
+            @Html.ActionLink( "Delete", "DeleteHall", "Hall", new { @id = hall.Id, @class = "btn btn-default" }, null )
+        </td>
+    </tr>
+}

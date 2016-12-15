@@ -1,0 +1,39 @@
+﻿@model Hotel.Web.Models.LoginViewModel
+
+@if ( Hotel.Web.Utils.WebUtils.IsAuthenticated(Session) )
+{
+    <form class="navbar-form navbar-right">
+        <div class="form-group">
+            <a href="~/Account/Logout" class="btn btn-primary">Log out</a>
+        </div>
+    </form>
+    <a href="~/Accout/Profile" class="navbar-text navbar-right">
+        Your profile <span class="glyphicon glyphicon-user"></span>
+    </a>
+}
+
+else
+{
+    Html.AntiForgeryToken();
+
+    using ( Html.BeginForm( "Login", "Account", FormMethod.Post, new { @class = "navbar-form navbar-right" } ) )
+    {
+        <ul class="nav nav-stacked">
+            <li>
+                <div class="form-group">
+                    @Html.TextBoxFor( m => m.Email, new { @class = "form-control", @placeholder = "Email" } )
+                </div>
+                <div class="form-group">
+                    @Html.TextBoxFor( m => m.Password, new { @class = "form-control", @placeholder = "Password" } )
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-primary" value="Log in">
+                </div>
+                <div class="form-group">
+                    @Html.ActionLink( "Register", "Register", "Account", new { @class = "btn btn-primary" } )
+                </div>
+            </li>
+            <li> <a href="~/Account/Restore" class="navbar-right"> Forgot your password?</a> </li>
+        </ul>
+    }
+}

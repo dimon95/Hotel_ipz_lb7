@@ -1,0 +1,750 @@
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:20:13.5418498Z, ProcessId : 8932, ThreadId : 8472
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:23:30.2899956Z, ProcessId : 4392, ThreadId : 7480
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:24:12.5655402Z, ProcessId : 6132, ThreadId : 1384
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:26:02.4933424Z, ProcessId : 9128, ThreadId : 2764
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:26:23.1011290Z, ProcessId : 420, ThreadId : 1724
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:26:39.8976812Z, ProcessId : 8392, ThreadId : 6808
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:27:19.3086768Z, ProcessId : 8880, ThreadId : 2860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:29:16.6729976Z, ProcessId : 9016, ThreadId : 4304
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:32:50.5640598Z, ProcessId : 8320, ThreadId : 7272
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:33:09.4323578Z, ProcessId : 5152, ThreadId : 8424
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:35:01.6513520Z, ProcessId : 2456, ThreadId : 3276
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:39:48.9402429Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:39:52.5861824Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:39:52.5871825Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:39:52.6403518Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:39:52.6403518Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:39:52.6443529Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:39:52.6453574Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:39:52.6503499Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:39:52.6513495Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:39:52.9026778Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:39:52.9026778Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:39:52.9051779Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:39:52.9056763Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:39:52.9076772Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:39:52.9081772Z, ProcessId : 4872, ThreadId : 7136
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:40:25.1940512Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:40:30.9030817Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:40:38.8821238Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:40:38.9562745Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:40:42.0099512Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:40:42.0139584Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:40:57.0715208Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:40:57.1215200Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:40:57.1225192Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:40:57.1655341Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:40:57.1655341Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:40:57.1675355Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:40:57.1685351Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:40:57.1705356Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:40:57.1715348Z, ProcessId : 1392, ThreadId : 5180
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:41:26.8348907Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:41:29.9320643Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:41:29.9330631Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:41:29.9420628Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:41:29.9420628Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:41:29.9460646Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:41:34.1934239Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:41:34.1994365Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:41:36.8679962Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:41:36.9330110Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:41:37.7084673Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:41:37.7109674Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:41:38.3880621Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:41:38.3930537Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:41:39.2990683Z, ProcessId : 4528, ThreadId : 6260
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:00.1856049Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:03.6088223Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:03.6088223Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:03.6208275Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:03.6208275Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:03.6242615Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:06.9771158Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:07.0116196Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:07.0126188Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:07.0566370Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:07.0566370Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:07.0586158Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:07.0586158Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:07.0616176Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:13.7293649Z, ProcessId : 8820, ThreadId : 7192
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:33.1381998Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:36.6894294Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:36.6894294Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:36.7024301Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:36.7024301Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:36.7074328Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:36.7084341Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:36.7154287Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:36.7164304Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:36.7714430Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:36.7714430Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:36.7740313Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:36.7740313Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:42:36.7760536Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:42:54.0343153Z, ProcessId : 9156, ThreadId : 8428
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:17.3669063Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:21.5374271Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:21.5374271Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:21.5844348Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:21.5844348Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:21.5874358Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:21.5874358Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:21.5934386Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:21.5944378Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:21.6549507Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:21.6549507Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:21.6574483Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:21.6579479Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:21.6604501Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:26.7031317Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IHallService.CreateHall finished, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:26.7451235Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:27.9585816Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:28.0297112Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:29.1241737Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:29.1271751Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:29.9471036Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:29.9696200Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:30.7488228Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:30.7498236Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:31.4801537Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:46:31.4821543Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:46:39.5981334Z, ProcessId : 5056, ThreadId : 2232
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:33.2117811Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:36.8923279Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:36.8923279Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:36.9043269Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:36.9043269Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:36.9073262Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:36.9073262Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:36.9123265Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:36.9133281Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:36.9653459Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:36.9653459Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:36.9673456Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:36.9673456Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:36.9693461Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:36.9703445Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IHallService.CreateHall finished, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:37.0013482Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:37.0023449Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:37.0153464Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:37.0153464Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:37.0193478Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:37.0193478Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:37.0333440Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:37.0333440Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:37.0343510Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:37.0343510Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:47:37.0358511Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:47:50.9479481Z, ProcessId : 7400, ThreadId : 8204
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:03.9648521Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.5257316Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.5257316Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.5347312Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.5347312Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.5377330Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.5382326Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.5437419Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.5447428Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6067426Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.6067426Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6097427Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.6097427Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6117416Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.6127425Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IHallService.CreateHall finished, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6407484Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.6417550Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6537569Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.6537569Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6557565Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.6567558Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6687568Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.6687568Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6707569Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:08.6707569Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:08.6717578Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:11.0802203Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:11.1659894Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:11.8810125Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:11.8920184Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:12.4723713Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:12.4773740Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:13.0912574Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:13.1658433Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.OnPaymentMade, Payload : [serviceName : IAccountService] [methodName : OnPaymentMade] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:13.7904164Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IAccountService.OnPaymentMade finished, Payload : [serviceName : IAccountService] [methodName : OnPaymentMade] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:13.8094215Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.5603285Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.7418372Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.7528353Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9418636Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9428637Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9528675Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9528675Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9578649Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9578649Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9618651Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9628647Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9698642Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9708643Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9838645Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9858675Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9878639Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9878639Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9908653Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9908653Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9938630Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9948638Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:17.9978628Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:17.9988649Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0018650Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0028651Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0038647Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0048647Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0058623Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0068628Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0078637Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0078637Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0088629Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0098625Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0128639Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0128639Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0148640Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0148640Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0158628Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0158628Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0168625Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:18.0168625Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:18.0178638Z, ProcessId : 6864, ThreadId : 4012
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:31.3568118Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.8259986Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.8259986Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.8345048Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.8355049Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.8415068Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.8425019Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.8475042Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.8485026Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.8895080Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.8895080Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.8924880Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.8924880Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.8946059Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.8946059Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IHallService.CreateHall finished, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9201684Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9206688Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9311644Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9311644Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9336707Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9336707Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9446700Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9456693Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9466693Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9466693Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9476702Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9486702Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9866709Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9866709Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9916711Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9916711Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:34.9956730Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:34.9956730Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.0076715Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.OnPaymentMade, Payload : [serviceName : IAccountService] [methodName : OnPaymentMade] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.0076715Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IAccountService.OnPaymentMade finished, Payload : [serviceName : IAccountService] [methodName : OnPaymentMade] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.0201820Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.0616829Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.0816830Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.0826831Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2136991Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2146983Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2177059Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2177059Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2207052Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2207052Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2247074Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2252054Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2287064Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2292060Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2367142Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2377138Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2397139Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2397139Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2407144Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2417145Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2437162Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2447142Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2477152Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2477152Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2517141Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2517141Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2537142Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2537142Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2547131Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2557139Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2567144Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2567144Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2577136Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2577136Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2607150Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2617146Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2627135Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2627135Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2637147Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2637147Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2647144Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-11-17T15:52:35.2647144Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-11-17T15:52:35.2657140Z, ProcessId : 6948, ThreadId : 3860
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:28.2148402Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.1060515Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.1060515Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.1623060Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.1628068Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateClient finished, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.1679023Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateAdmin, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.1679023Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IAccountService.CreateAdmin finished, Payload : [serviceName : IAccountService] [methodName : CreateAdmin] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.1779082Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.1789070Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.2439131Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.2439131Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.2604160Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.CreateRoom, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.2604160Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IRoomService.CreateRoom finished, Payload : [serviceName : IRoomService] [methodName : CreateRoom] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.2629182Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.CreateHall, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.2639195Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IHallService.CreateHall finished, Payload : [serviceName : IHallService] [methodName : CreateHall] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.2924242Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.2934267Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3064290Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3064290Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3094255Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3094255Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3224220Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3224220Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3234221Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3244217Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3254222Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3264218Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3704384Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3704384Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3754399Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3754399Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3814361Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method ICartService.AddItem, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3814361Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method ICartService.AddItem finished, Payload : [serviceName : ICartService] [methodName : AddItem] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.3854383Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.OnPaymentMade, Payload : [serviceName : IAccountService] [methodName : OnPaymentMade] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.3854383Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IAccountService.OnPaymentMade finished, Payload : [serviceName : IAccountService] [methodName : OnPaymentMade] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.4218852Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.4980807Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.5364878Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.5364878Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6695270Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6695270Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6735276Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6745268Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6765257Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6765257Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6795271Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6795271Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6835277Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6835277Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6915236Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6925224Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6945225Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6945225Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6955226Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6965230Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.6985223Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.6995232Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7025229Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7025229Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7055243Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7065264Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7085261Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7085261Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7095274Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7095274Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7105229Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7105229Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7115225Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.ViewAll, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7125234Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.ViewAll finished, Payload : [serviceName : IDomainEntityService`1] [methodName : ViewAll] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7145231Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7155244Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7165224Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7165224Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7175229Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7175229Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7195238Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:01:33.7195238Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-07T10:01:33.7205234Z, ProcessId : 8560, ThreadId : 7620
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.CreateClient, Payload : [serviceName : IAccountService] [methodName : CreateClient] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-07T10:48:43.5866213Z, ProcessId : 7192, ThreadId : 5136
+

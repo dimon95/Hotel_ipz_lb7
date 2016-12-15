@@ -1,0 +1,48 @@
+﻿@model Hotel.Web.Models.UpdateHallViewModel
+
+@{
+    ViewBag.Title = "UpdateHall";
+}
+
+<div class="panel">
+    <div class="panel-heading">
+        <label> Edit </label>
+    </div>
+
+    @Html.AntiForgeryToken()
+    @{Html.EnableClientValidation(); }
+    @{Html.EnableUnobtrusiveJavaScript();}
+    @using ( Html.BeginForm( "UpdateHall", "Hall" ) )
+    {
+        <div class="panel-body">
+
+            @Html.HiddenFor( m => m.Id )
+            @Html.HiddenFor( m => m.Number )
+            @Html.HiddenFor( m => m.PersonsCount )
+
+            <label>Description</label>
+            <div class="form-group">
+                @Html.TextAreaFor( m => m.Description, new { @class = "form-control" } )
+                @Html.ValidationMessageFor( m => m.Description )
+            </div>
+
+            <label>Price</label>
+            <div class="form-group">
+                @Html.TextBoxFor( m => m.Price, new { @class = "form-control", @placeholder = "Price" } )
+                @Html.ValidationMessageFor( m => m.Price )
+            </div>
+
+            <label>On Restavration</label>
+            <div class="form-group">
+                @Html.CheckBoxFor( m => m.OnRestavration, new { @placeholder = "On Restavration" } )
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Accept" class="btn btn-primary">
+                <a href="~/Hall/Halls" class="btn btn-warning">Cancel</a>
+            </div>
+        </div>
+    }
+</div>
+
+

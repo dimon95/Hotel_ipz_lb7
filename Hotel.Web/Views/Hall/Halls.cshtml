@@ -1,0 +1,40 @@
+﻿@using Hotel.Dto;
+@using Hotel.Web.Utils;
+@model List<HallDto>
+
+@{
+    ViewBag.Title = "Halls";
+}
+
+@if ( WebUtils.IsAuthenticated( Session ) && WebUtils.IsAuthorizedInRole( Session, new List<Role> { Role.Admin } ) )
+{
+    @Html.Partial( "AdminPanelPartial" )
+
+    <div class="panel panel-default">
+        <div class="panel-body">
+
+            <table class="table table-striped table-bordered">
+                <thead>
+                    <tr>
+                        <th>Room Number</th>
+                        <th>Description</th>
+                        <th>Persons</th>
+                        <th>Price</th>
+                        <th>On restavration</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+
+                <tbody id="tableBody">
+                    @Html.Partial( "AdminHallsPartial", Model )
+                </tbody>
+
+            </table>
+
+        </div>
+        <div class="panel-footer">
+            @Html.ActionLink( "Add Hall", "AddHall", "Halls", new { @class = "btn btn-primary" } )
+        </div>
+    </div>
+}
+

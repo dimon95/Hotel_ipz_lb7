@@ -1,0 +1,43 @@
+﻿@using Hotel.Web.Utils;
+@using Hotel.Dto;
+@using Hotel.Model;
+@model IList<Hotel.Dto.RoomDto>
+
+@Html.Partial( "AdminPanelPartial" )
+
+@if ( WebUtils.IsAuthenticated( Session ) && WebUtils.IsAuthorizedInRole( Session, new List<Role> { Role.Admin } ) )
+{
+        <div class="panel panel-default">
+            <div class="panel-body">
+
+                <table class="table table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Room Number</th>
+                            <th>Description</th>
+                            <th>Persons</th>
+                            <th>Beds</th>
+                            <th>Price</th>
+                            <th>On restavration</th>
+                            @foreach ( SearchCriteria r in Enum.GetValues( typeof( SearchCriteria ) ) )
+                            {
+                                <th>@r.ToString()</th>
+                            }
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="tableBody">
+                        @Html.Partial( "AdminRoomsPartial" )
+                    </tbody>
+
+                </table>
+
+            </div>
+            <div class="panel-footer">
+                @Html.ActionLink( "Add Room", "AddRoom", "Rooms", new { @class = "btn btn-primary" } )
+            </div>
+        </div>
+}
+
+

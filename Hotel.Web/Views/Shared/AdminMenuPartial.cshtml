@@ -1,0 +1,8 @@
+﻿@{
+    if ( Hotel.Web.Utils.WebUtils.IsAuthenticated( Session ) && 
+         Hotel.Web.Utils.WebUtils.IsAuthorizedInRole( Session, 
+                            new List<Hotel.Dto.Role> { Hotel.Dto.Role.Admin} ) )
+    {
+        <a href="~/Admin/Index" class="navbar-brand">Admin panel</a>
+    }
+}

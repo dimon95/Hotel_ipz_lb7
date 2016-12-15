@@ -1,0 +1,50 @@
+﻿@model Hotel.Web.Models.AddRoomViewModel
+
+@{
+    ViewBag.Title = "AddRoom";
+}
+
+<div class="panel">
+    <div class="panel-heading">
+        <label> Add </label>
+    </div>
+
+    @Html.AntiForgeryToken()
+    @{Html.EnableClientValidation(); }
+    @{Html.EnableUnobtrusiveJavaScript();}
+    @using ( Html.BeginForm( "AddRoom", "Room" ) )
+    {
+        <div class="panel-body">
+            <label>Number</label>
+            <div class="form-group">
+                @Html.TextBoxFor( m => m.Number, new { @class = "form-control" } )
+                @Html.ValidationMessageFor( m => m.Number )
+            </div>
+            <label>Description</label>
+            <div class="form-group">
+                @Html.TextAreaFor( m => m.Description, new { @class = "form-control" } )
+                @Html.ValidationMessageFor( m => m.Description )
+            </div>
+            <label>Person count</label>
+            <div class="form-group">
+                @Html.TextBoxFor( m => m.PersonsCount, new { @class = "form-control" } )
+                @Html.ValidationMessageFor( m => m.PersonsCount )
+            </div>
+            <label>Bed count</label>
+            <div class="form-group">
+                @Html.TextBoxFor( m => m.BedCount, new { @class = "form-control" } )
+                @Html.ValidationMessageFor( m => m.BedCount )
+            </div>
+            <label>Price</label>
+            <div class="form-group">
+                @Html.TextBoxFor( m => m.Price, new { @class = "form-control" } )
+                @Html.ValidationMessageFor( m => m.Price )
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Accept" class="btn btn-primary">
+                <a href="~/Room/Rooms" class="btn btn-warning">Cancel</a>
+            </div>
+        </div>
+    }
+</div>
+

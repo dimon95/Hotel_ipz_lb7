@@ -1,0 +1,16 @@
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\SimpleTestApp.exe.config
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\SimpleTestApp.exe
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\SimpleTestApp.pdb
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\EntityFramework.dll
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\Hotel.Model.dll
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\Hotel.Repository.dll
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\Hotel.Utils.dll
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\Hotel.Model.pdb
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\Hotel.Utils.pdb
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\Hotel.Repository.pdb
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\EntityFramework.xml
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\obj\Debug\SimpleTestApp.csprojResolveAssemblyReference.cache
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\obj\Debug\SimpleTestApp.exe
+D:\С#_projects_vs2015\Hotel_ipz\SimpleTestApp\obj\Debug\SimpleTestApp.pdb

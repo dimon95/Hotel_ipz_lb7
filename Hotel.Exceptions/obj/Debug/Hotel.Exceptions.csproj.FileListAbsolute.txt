@@ -1,0 +1,10 @@
+D:\С#_projects_vs2015\Hotel_ipz\Hotel.Exceptions\bin\Debug\Hotel.Exceptions.dll
+D:\С#_projects_vs2015\Hotel_ipz\Hotel.Exceptions\bin\Debug\Hotel.Exceptions.pdb
+D:\С#_projects_vs2015\Hotel_ipz\Hotel.Exceptions\obj\Debug\Hotel.Exceptions.csprojResolveAssemblyReference.cache
+D:\С#_projects_vs2015\Hotel_ipz\Hotel.Exceptions\obj\Debug\Hotel.Exceptions.dll
+D:\С#_projects_vs2015\Hotel_ipz\Hotel.Exceptions\obj\Debug\Hotel.Exceptions.pdb
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.Exceptions\bin\Debug\Hotel.Exceptions.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.Exceptions\bin\Debug\Hotel.Exceptions.pdb
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.Exceptions\obj\Debug\Hotel.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.Exceptions\obj\Debug\Hotel.Exceptions.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.Exceptions\obj\Debug\Hotel.Exceptions.pdb

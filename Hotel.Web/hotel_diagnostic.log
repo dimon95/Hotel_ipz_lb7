@@ -1,0 +1,294 @@
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T09:55:41.4275661Z, ProcessId : 6876, ThreadId : 7780
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T09:57:55.4695588Z, ProcessId : 3408, ThreadId : 9096
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T10:02:21.2051649Z, ProcessId : 4380, ThreadId : 7368
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T10:03:25.0274351Z, ProcessId : 3716, ThreadId : 8968
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T10:19:42.6203340Z, ProcessId : 6464, ThreadId : 1692
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T10:48:21.8394383Z, ProcessId : 4688, ThreadId : 464
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T10:49:54.1472457Z, ProcessId : 10196, ThreadId : 4960
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T10:55:57.3313474Z, ProcessId : 800, ThreadId : 9232
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T10:59:15.2094159Z, ProcessId : 9336, ThreadId : 5280
+
+ProviderId : 4f490694-7097-56cd-faaa-6ef394cfff89
+EventId : 2
+Keywords : 1
+Level : Critical
+Message : Application Failure: Метод не найден: "Void Hotel.Dto.AccountDto..ctor(System.Guid, System.String, System.String, System.String, System.String, System.String, Byte, Byte, Int32, Hotel.Dto.BookingHolderDto, Hotel.Dto.BookingHolderDto)".
+Opcode : Info
+Task : 65532
+Version : 0
+Payload : [message : Метод не найден: "Void Hotel.Dto.AccountDto..ctor(System.Guid, System.String, System.String, System.String, System.String, System.String, Byte, Byte, Int32, Hotel.Dto.BookingHolderDto, Hotel.Dto.BookingHolderDto)".] 
+EventName : FailureInfo
+Timestamp : 2016-12-07T11:01:17.8568562Z
+ProcessId : 9336
+ThreadId : 7136
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T11:03:19.8627280Z, ProcessId : 6224, ThreadId : 5296
+
+ProviderId : 4f490694-7097-56cd-faaa-6ef394cfff89
+EventId : 2
+Keywords : 1
+Level : Critical
+Message : Application Failure: Метод не найден: "Void Hotel.Dto.AccountDto..ctor(System.Guid, System.String, System.String, System.String, System.String, System.String, Byte, Byte, Int32, Hotel.Dto.BookingHolderDto, Hotel.Dto.BookingHolderDto)".
+Opcode : Info
+Task : 65532
+Version : 0
+Payload : [message : Метод не найден: "Void Hotel.Dto.AccountDto..ctor(System.Guid, System.String, System.String, System.String, System.String, System.String, Byte, Byte, Int32, Hotel.Dto.BookingHolderDto, Hotel.Dto.BookingHolderDto)".] 
+EventName : FailureInfo
+Timestamp : 2016-12-07T11:03:49.4035246Z
+ProcessId : 6224
+ThreadId : 4476
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T11:04:05.8082705Z, ProcessId : 7292, ThreadId : 5956
+
+ProviderId : 4f490694-7097-56cd-faaa-6ef394cfff89
+EventId : 2
+Keywords : 1
+Level : Critical
+Message : Application Failure: Метод не найден: "Void Hotel.Dto.AccountDto..ctor(System.Guid, System.String, System.String, System.String, System.String, System.String, Byte, Byte, Int32, Hotel.Dto.BookingHolderDto, Hotel.Dto.BookingHolderDto)".
+Opcode : Info
+Task : 65532
+Version : 0
+Payload : [message : Метод не найден: "Void Hotel.Dto.AccountDto..ctor(System.Guid, System.String, System.String, System.String, System.String, System.String, Byte, Byte, Int32, Hotel.Dto.BookingHolderDto, Hotel.Dto.BookingHolderDto)".] 
+EventName : FailureInfo
+Timestamp : 2016-12-07T11:04:40.3776137Z
+ProcessId : 7292
+ThreadId : 8684
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T11:10:17.1616225Z, ProcessId : 3540, ThreadId : 1612
+
+ProviderId : 4f490694-7097-56cd-faaa-6ef394cfff89
+EventId : 2
+Keywords : 1
+Level : Critical
+Message : Application Failure: Метод не найден: "Void Hotel.Dto.AccountDto..ctor(System.Guid, System.String, System.String, System.String, System.String, System.String, Byte, Byte, Int32, Hotel.Dto.BookingHolderDto, Hotel.Dto.BookingHolderDto)".
+Opcode : Info
+Task : 65532
+Version : 0
+Payload : [message : Метод не найден: "Void Hotel.Dto.AccountDto..ctor(System.Guid, System.String, System.String, System.String, System.String, System.String, Byte, Byte, Int32, Hotel.Dto.BookingHolderDto, Hotel.Dto.BookingHolderDto)".] 
+EventName : FailureInfo
+Timestamp : 2016-12-07T11:11:49.3087025Z
+ProcessId : 3540
+ThreadId : 10000
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T11:22:06.6698636Z, ProcessId : 4588, ThreadId : 6636
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T11:27:54.6060796Z, ProcessId : 4764, ThreadId : 5764
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T11:31:28.4098016Z, ProcessId : 10228, ThreadId : 5804
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-07T13:01:15.9957697Z, ProcessId : 10636, ThreadId : 11448
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-08T17:05:32.7680004Z, ProcessId : 9992, ThreadId : 11196
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-08T17:07:18.9124990Z, ProcessId : 10280, ThreadId : 5456
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-08T17:08:57.6093786Z, ProcessId : 10028, ThreadId : 2804
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-08T17:17:04.5346076Z, ProcessId : 10960, ThreadId : 10940
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-08T17:28:22.0735022Z, ProcessId : 1068, ThreadId : 10044
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-12T13:47:45.7548176Z, ProcessId : 4012, ThreadId : 6704
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-12T15:47:04.2568025Z, ProcessId : 2072, ThreadId : 7216
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T11:09:03.3315030Z, ProcessId : 2908, ThreadId : 2664
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T11:16:55.2864890Z, ProcessId : 7824, ThreadId : 7752
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T11:17:29.5658294Z, ProcessId : 3948, ThreadId : 6980
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T15:23:53.1184009Z, ProcessId : 5124, ThreadId : 11132
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T15:42:46.2499577Z, ProcessId : 8096, ThreadId : 10060
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T15:46:22.5666279Z, ProcessId : 10092, ThreadId : 1456
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T15:47:35.1824976Z, ProcessId : 4336, ThreadId : 10424
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T15:53:59.2401099Z, ProcessId : 9688, ThreadId : 7820
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T15:58:14.9584635Z, ProcessId : 11232, ThreadId : 4908
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T16:00:35.3236094Z, ProcessId : 8924, ThreadId : 2360
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T16:04:20.9779135Z, ProcessId : 8768, ThreadId : 9628
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T16:06:32.1530023Z, ProcessId : 10764, ThreadId : 8804
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T16:07:42.2048710Z, ProcessId : 6844, ThreadId : 11076
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T16:11:25.1230810Z, ProcessId : 7224, ThreadId : 11156
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T16:16:39.2169709Z, ProcessId : 9148, ThreadId : 5452
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T16:37:48.7559764Z, ProcessId : 10376, ThreadId : 4188
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T16:49:17.8697782Z, ProcessId : 9344, ThreadId : 9832
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T17:10:39.3851480Z, ProcessId : 5264, ThreadId : 4372
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T17:13:13.3638161Z, ProcessId : 4552, ThreadId : 620
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T17:16:48.5254441Z, ProcessId : 9856, ThreadId : 10884
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T17:20:34.2236046Z, ProcessId : 4652, ThreadId : 4900
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T17:23:13.8448473Z, ProcessId : 9616, ThreadId : 352
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T17:29:06.9095815Z, ProcessId : 7964, ThreadId : 9332
+
+ProviderId : 4f490694-7097-56cd-faaa-6ef394cfff89
+EventId : 2
+Keywords : 1
+Level : Critical
+Message : Application Failure: Attempted to add criteria room already has#523f14fb-0605-464a-9a0e-593792ef60d2
+Opcode : Info
+Task : 65532
+Version : 0
+Payload : [message : Attempted to add criteria room already has#523f14fb-0605-464a-9a0e-593792ef60d2] 
+EventName : FailureInfo
+Timestamp : 2016-12-13T17:32:10.0770225Z
+ProcessId : 7964
+ThreadId : 10376
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T17:35:24.1982307Z, ProcessId : 7728, ThreadId : 2212
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-13T17:42:28.3682572Z, ProcessId : 8952, ThreadId : 8600
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:26:03.6551293Z, ProcessId : 14184, ThreadId : 11816
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:29:18.4757718Z, ProcessId : 2380, ThreadId : 10644
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:31:10.5765159Z, ProcessId : 13844, ThreadId : 11304
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:36:09.9523721Z, ProcessId : 6756, ThreadId : 7584
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:38:15.9575287Z, ProcessId : 8700, ThreadId : 11584
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:39:33.6140875Z, ProcessId : 13956, ThreadId : 8340
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:40:27.8794873Z, ProcessId : 11752, ThreadId : 10172
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:47:13.8006416Z, ProcessId : 12412, ThreadId : 5772
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:52:02.3621954Z, ProcessId : 8284, ThreadId : 11088
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:53:38.9550652Z, ProcessId : 8232, ThreadId : 6648
+
+ProviderId : 4f490694-7097-56cd-faaa-6ef394cfff89
+EventId : 2
+Keywords : 1
+Level : Critical
+Message : Application Failure: Parameter validation failed
+Имя параметра: personsCount
+Opcode : Info
+Task : 65532
+Version : 0
+Payload : [message : Parameter validation failed
+Имя параметра: personsCount] 
+EventName : FailureInfo
+Timestamp : 2016-12-14T14:54:46.8204475Z
+ProcessId : 8232
+ThreadId : 4396
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T14:57:42.6003619Z, ProcessId : 11808, ThreadId : 11528
+
+ProviderId : 4f490694-7097-56cd-faaa-6ef394cfff89
+EventId : 2
+Keywords : 1
+Level : Critical
+Message : Application Failure: Parameter validation failed
+Имя параметра: personsCount
+Opcode : Info
+Task : 65532
+Version : 0
+Payload : [message : Parameter validation failed
+Имя параметра: personsCount] 
+EventName : FailureInfo
+Timestamp : 2016-12-14T14:58:57.9538455Z
+ProcessId : 11808
+ThreadId : 11704
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T15:02:27.0818717Z, ProcessId : 10148, ThreadId : 6776
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T15:04:25.4857444Z, ProcessId : 4300, ThreadId : 4060
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T15:08:14.9084804Z, ProcessId : 5328, ThreadId : 3376
+
+ProviderId : 4f490694-7097-56cd-faaa-6ef394cfff89
+EventId : 2
+Keywords : 1
+Level : Critical
+Message : Application Failure: Attempted to set on restavration place which is alredy restavrated #4c56143c-f9f3-490d-a5e5-305551712273
+Opcode : Info
+Task : 65532
+Version : 0
+Payload : [message : Attempted to set on restavration place which is alredy restavrated #4c56143c-f9f3-490d-a5e5-305551712273] 
+EventName : FailureInfo
+Timestamp : 2016-12-14T15:09:01.0806245Z
+ProcessId : 5328
+ThreadId : 12668
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T15:12:30.1645058Z, ProcessId : 7232, ThreadId : 1152
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T16:48:54.8959367Z, ProcessId : 9100, ThreadId : 12740
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T16:52:11.5248053Z, ProcessId : 2728, ThreadId : 6372
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T17:18:44.5033051Z, ProcessId : 9472, ThreadId : 11860
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T17:32:31.3999092Z, ProcessId : 5884, ThreadId : 5460
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T17:52:04.3995496Z, ProcessId : 7256, ThreadId : 4564
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T18:04:30.4672487Z, ProcessId : 5952, ThreadId : 8096
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T18:25:02.9467865Z, ProcessId : 1856, ThreadId : 3832
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-14T18:29:03.5674540Z, ProcessId : 8268, ThreadId : 7024
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T10:00:39.4357854Z, ProcessId : 6724, ThreadId : 5232
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T10:03:33.3343169Z, ProcessId : 7072, ThreadId : 4316
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T10:05:55.3479005Z, ProcessId : 8704, ThreadId : 2332
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T10:10:52.7425572Z, ProcessId : 7940, ThreadId : 8272
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T10:49:18.1611305Z, ProcessId : 3732, ThreadId : 7852
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T11:08:01.1351391Z, ProcessId : 3164, ThreadId : 5864
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T11:12:18.8934321Z, ProcessId : 5444, ThreadId : 8516
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T11:42:43.9664903Z, ProcessId : 8460, ThreadId : 9212
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T11:46:03.9490872Z, ProcessId : 8704, ThreadId : 9200
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T18:19:00.3340217Z, ProcessId : 3744, ThreadId : 4824
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T18:36:54.7589640Z, ProcessId : 7160, ThreadId : 4912
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T19:38:21.3598715Z, ProcessId : 9592, ThreadId : 10000
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T19:40:34.7638949Z, ProcessId : 8156, ThreadId : 8504
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T19:41:14.0030689Z, ProcessId : 4660, ThreadId : 12076
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T19:45:37.2885375Z, ProcessId : 5588, ThreadId : 7968
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T19:51:58.6842440Z, ProcessId : 6944, ThreadId : 3836
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T19:55:48.6261844Z, ProcessId : 5392, ThreadId : 6688
+
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T19:58:12.9371461Z, ProcessId : 10936, ThreadId : 6312
+
