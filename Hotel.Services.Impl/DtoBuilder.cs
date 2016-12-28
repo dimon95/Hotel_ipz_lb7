@@ -10,7 +10,7 @@ using Hotel.Model.Entities.Concrete;
 
 namespace Hotel.Services.Impl
 {
-    static class DtoBuilder
+    public static class DtoBuilder
     {
         public static AccountDto toDto ( this Account a )
         {

@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using Hotel.Dto;
 using Hotel.Repository;
-using Hotel.Services;
 using Hotel.Model.Entities.Concrete;
 using Hotel.Exceptions;
 using Hotel.Model;
@@ -32,29 +31,25 @@ namespace Hotel.Services.Impl
 
             RoomRepository.Add( r );
 
-
             return r.Id;
         }
 
         public void ResetCriteria ( Guid roomId, SearchCriteria criteria )
         {
-            if ( !RoomRepository.Load( roomId ).HasCriteria( criteria ) )
-                throw new RemovingNotExistingRoomCriteriaException( roomId );
-
-
             Room r = ServiceUtils.GetEntity(RoomRepository, roomId);
 
-            r.ResetCriteria( criteria );
+            if ( !r.HasCriteria( criteria ) )
+                throw new RemovingNotExistingRoomCriteriaException( roomId );
 
+            r.ResetCriteria( criteria );
         }
 
         public void SetCriteria ( Guid roomId, SearchCriteria criteria )
         {
-            if ( RoomRepository.Load( roomId ).HasCriteria( criteria ) )
-                throw new MultipleAddingRoomCriteriaException( roomId );
-
-
             Room r = ServiceUtils.GetEntity(RoomRepository, roomId);
+
+            if ( r.HasCriteria( criteria ) )
+                throw new MultipleAddingRoomCriteriaException( roomId );
 
             r.SetCriteria( criteria );
 
@@ -74,17 +69,12 @@ namespace Hotel.Services.Impl
         {
             Room r = ServiceUtils.GetEntity(RoomRepository, id);
 
-
             RoomRepository.Delete( r );
-
         }
 
         public override void ChangeDescription ( Guid placeId, string description )
         {
-
             base.ChangeDescription( placeId, description );
-
-  
         }
 
         public override void ChangePrice ( Guid placeId, decimal price )
@@ -114,10 +104,10 @@ namespace Hotel.Services.Impl
 
             foreach ( Room r in RoomRepository.LoadAll() )
             {
-                if ( ( r.SearchCriterias & ( byte ) criteria ) != 0 )
-                    ;            res.Add( r.toDto() );
+                if ( r.HasCriteria(criteria) )
+                      res.Add( r.toDto() );
             }
-            ;
+            
             return res;
         }
 
@@ -127,9 +117,15 @@ namespace Hotel.Services.Impl
 
             foreach ( Room r in RoomRepository.LoadAll() )
             {
-                if ( ( r.SearchCriterias & sCriteria ) != 0 )
-                {
+                if ( r.SearchCriterias == 0 && sCriteria == 0 )
                     res.Add( r.toDto() );
+
+                foreach ( SearchCriteria sc in Enum.GetValues( typeof( SearchCriteria ) ) )
+                {
+                    if ( r.HasCriteria(sc) && Model.Utils.HasCriteria(sCriteria, sc) && !res.Contains(r.toDto()))
+                    {
+                        res.Add( r.toDto() );
+                    }
                 }
             }
 
@@ -142,7 +138,7 @@ namespace Hotel.Services.Impl
 
             foreach ( Room r in RoomRepository.LoadAll() )
             {
-                if ( r.Price >= bPrice && r.Price >= ePrice )
+                if ( r.Price >= bPrice && r.Price <= ePrice )
                     res.Add( r.toDto() );
             }
 

@@ -28,8 +28,6 @@ namespace Hotel.Services.Impl
             if ( _accountRepo.Find( email ) != null )
                 throw new DuplicateNamedEntityException( typeof( Account ), email );
 
-            
-
             Account ac = ServiceUtils.GetEntity( _accountRepo, id );
 
             ac.Email = email;
@@ -39,29 +37,21 @@ namespace Hotel.Services.Impl
 
         public void ChangeName (Guid id, string name, string surname, string middlename )
         {
-            
-
             Account ac = ServiceUtils.GetEntity(_accountRepo, id);
 
             ac.Name = name;
             ac.Surname = surname;
-            ac.Middlename = middlename;
-
-            
+            ac.Middlename = middlename; 
         }
 
         public void ChangePassword ( Guid id, string oldPasswordHash, string newPasswordHash )
         {
-           
-
             Account ac = ServiceUtils.GetEntity(_accountRepo, id);
 
             if ( ac.PasswordHash != oldPasswordHash )
                 throw new ArgumentException("wrong password");
 
             ac.PasswordHash = newPasswordHash;
-
-           
         }
 
         public Guid CreateAdmin ( string name, string surname, string middlename,
@@ -125,11 +115,7 @@ namespace Hotel.Services.Impl
         {
             Account acc = ServiceUtils.GetEntity(_accountRepo, userId);
 
-            
-
             acc.PaymentMade();
-
-            
         }
 
         public AccountDto View ( Guid id )

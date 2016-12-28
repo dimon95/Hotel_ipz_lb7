@@ -8,15 +8,15 @@ namespace Hotel.Dto
 {
     public class PeriodDto : DomainDto
     {
-        public byte BeginDay { get; private set; }
-        public byte BeginMonth { get; private set; }
+        public int BeginDay { get; private set; }
+        public int BeginMonth { get; private set; }
         public int  BeginYear { get; private set; }
 
-        public byte EndDay { get; private set; }
-        public byte EndMonth { get; private set; }
+        public int EndDay { get; private set; }
+        public int EndMonth { get; private set; }
         public int EndYaer { get; private set; }
 
-        public PeriodDto ( Guid id, byte bDay, byte bMonth, int bYear, byte eDay, byte eMonth, int eYear )
+        public PeriodDto ( Guid id, int bDay, int bMonth, int bYear, int eDay, int eMonth, int eYear )
             :base(id)
         {
             BeginDay = bDay;

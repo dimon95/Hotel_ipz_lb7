@@ -18,8 +18,8 @@ namespace Hotel.Dto
         public string PasswordHash { get; private set; }
 
         //Date of Birth
-        public byte Day { get; private set; }
-        public byte Month { get; private set; }
+        public int Day { get; private set; }
+        public int Month { get; private set; }
         public int Year { get; private set; }  
 
         public BookingHolderDto Cart { get; private set; }
@@ -28,7 +28,7 @@ namespace Hotel.Dto
         public Role Role { get; private set; }
 
         public AccountDto ( Guid id, string name, string surname, string middlename, string email, string passwordHash, 
-                byte day, byte month, int year,
+                int day, int month, int year,
                 BookingHolderDto cart, BookingHolderDto hystory, Role r) 
             : base( id )
         {

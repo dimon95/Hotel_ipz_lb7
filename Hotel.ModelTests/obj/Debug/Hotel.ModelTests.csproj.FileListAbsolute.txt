@@ -1,0 +1,15 @@
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Hotel.ModelTests.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Hotel.ModelTests.pdb
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Hotel.Model.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Hotel.Utils.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Hotel.Model.pdb
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Hotel.Utils.pdb
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\obj\Debug\Hotel.ModelTests.csprojResolveAssemblyReference.cache
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\obj\Debug\Hotel.ModelTests.dll
+C:\Users\Dimon.DESKTOP-96RS0GA\Desktop\Hotel_ipz-master\Hotel.ModelTests\obj\Debug\Hotel.ModelTests.pdb

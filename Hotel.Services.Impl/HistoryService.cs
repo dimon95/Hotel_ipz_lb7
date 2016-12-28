@@ -15,14 +15,15 @@ namespace Hotel.Services.Impl
     {
         private void Reshedule ( BookingHistory history, Booking oldBooking, BookingPeriod bp )
         {
-            
-
             if ( oldBooking.BookedPlace.isFree( bp ) )
             {
-                history.AddBooking( new Booking( Guid.NewGuid(), bp, oldBooking.BookedPlace,
+                /*history.AddBooking( new Booking( Guid.NewGuid(), bp, oldBooking.BookedPlace,
                     oldBooking.Name, oldBooking.Surname, oldBooking.Middlename ) );
 
-                history.DeleteBooking( oldBooking );
+                history.DeleteBooking( oldBooking );*/
+                oldBooking.BookedPlace.Bookings.Remove( oldBooking.BookingPeriod );
+                oldBooking.BookingPeriod = bp;
+                oldBooking.BookedPlace.Bookings.Add( oldBooking.BookingPeriod );
             }
             else
             {
@@ -38,7 +39,6 @@ namespace Hotel.Services.Impl
 
         public void RescheduleBooking ( Guid historyId, Guid bookingId, PeriodDto newPeriod )
         {
-
             BookingPeriod bp = ModelBuilder.BuildPeriod(newPeriod);
 
             if ( bp.Begin < Utils.BookingDate.GetToday() || bp.End < Utils.BookingDate.GetToday() 
@@ -48,8 +48,6 @@ namespace Hotel.Services.Impl
              
             BookingHistory bh = ServiceUtils.GetEntity<BookingHolder, BookingHistory>(HolderRepository, historyId);
             Booking oldBooking = HolderRepository.GetBooking(bh.Id, bookingId);
-
-
 
             if ( oldBooking.CheckStatus() != BookingStatus.Booked )
                 throw new ArgumentException("Can't reshedule this booking");
@@ -62,11 +60,9 @@ namespace Hotel.Services.Impl
             {
                 throw e;
             }
-
- 
         }
 
-        public void ResheduleBooking ( Guid historyId, Guid bookingId, IList<PeriodDto> newPeriods )
+        /*public void RescheduleBooking ( Guid historyId, Guid bookingId, IList<PeriodDto> newPeriods )
         {
             BookingHistory bh = ServiceUtils.GetEntity<BookingHolder, BookingHistory>(HolderRepository, historyId);
             Booking oldBooking = HolderRepository.GetBooking(bh.Id, bookingId);
@@ -86,7 +82,7 @@ namespace Hotel.Services.Impl
                 throw e;
             }
 
-        }
+        }*/
 
         public override IList<Guid> ViewAll ()
         {

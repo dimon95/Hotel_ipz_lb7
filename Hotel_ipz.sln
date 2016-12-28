@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Services.Impl", "Hote
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Web", "Hotel.Web\Hotel.Web.csproj", "{5A0A1D00-D5C9-47AA-B0AA-C879319A840E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.ModelTests", "Hotel.ModelTests\Hotel.ModelTests.csproj", "{57B56A86-505A-4B5B-9205-87F929A63023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.Services.ImplTests", "Hotel.Services.ImplTests\Hotel.Services.ImplTests.csproj", "{E789E85F-4859-4649-92DC-EBBA29BA236C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{5A0A1D00-D5C9-47AA-B0AA-C879319A840E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A0A1D00-D5C9-47AA-B0AA-C879319A840E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A0A1D00-D5C9-47AA-B0AA-C879319A840E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B56A86-505A-4B5B-9205-87F929A63023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B56A86-505A-4B5B-9205-87F929A63023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B56A86-505A-4B5B-9205-87F929A63023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B56A86-505A-4B5B-9205-87F929A63023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E789E85F-4859-4649-92DC-EBBA29BA236C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E789E85F-4859-4649-92DC-EBBA29BA236C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E789E85F-4859-4649-92DC-EBBA29BA236C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E789E85F-4859-4649-92DC-EBBA29BA236C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

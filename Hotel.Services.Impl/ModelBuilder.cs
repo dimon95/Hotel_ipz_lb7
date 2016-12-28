@@ -9,7 +9,7 @@ using Hotel.Dto;
 
 namespace Hotel.Services.Impl
 {
-    static class ModelBuilder
+    public static class ModelBuilder
     {
         public static BookingPeriod BuildPeriod ( this PeriodDto pd )
         {

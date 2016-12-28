@@ -82,6 +82,16 @@ namespace Hotel.Model.Entities.Abstract
             Cart.DeleteBooking( b );
         }
 
+        public void ClearCart ()
+        {
+            Cart.MakeEmpty();
+        }
+
+        public void ClearHistory ()
+        {
+            History.Clear();
+        }
+
         public void PaymentMade ()
         {
             foreach ( Booking b in Cart.Bookings )

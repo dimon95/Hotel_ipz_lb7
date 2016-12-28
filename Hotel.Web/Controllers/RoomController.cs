@@ -43,7 +43,7 @@ namespace Hotel.Web.Controllers
             }
         }
 
-        private List<Dto.RoomDto> RoomsByPrice ( decimal bPrice, decimal ePrice )
+        /*private List<Dto.RoomDto> RoomsByPrice ( decimal bPrice, decimal ePrice )
         {
             return ( _roomService.GetRooms( bPrice, ePrice ).OrderBy( r => r.Number ).ToList() );
         }
@@ -51,7 +51,7 @@ namespace Hotel.Web.Controllers
         private List<Dto.RoomDto> RoomsByCriteria ( int sCriteria )
         {
             return ( _roomService.GetRooms( sCriteria ).OrderBy( r => r.Number ).ToList() );
-        }
+        }*/
 
         public RoomController ( IRoomService roomServ )
         {
@@ -66,7 +66,7 @@ namespace Hotel.Web.Controllers
             return View( _roomService.GetRooms().OrderBy(r => r.Number).ToList() );
         }
 
-        public PartialViewResult FindRooms ( decimal begin, decimal end, bool onRestavration )
+        /*public PartialViewResult FindRooms ( decimal begin, decimal end, bool onRestavration )
         {
             //int sCriteria = Model.Utils.ToInt(searchCriterias);
 
@@ -76,7 +76,7 @@ namespace Hotel.Web.Controllers
                 return PartialView( "AdminRoomsPartial", res.FindAll( r => r.OnRestavration == true ) );
 
             return PartialView( "AdminRoomsPartial", res );
-        }
+        }*/
 
         
 

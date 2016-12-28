@@ -29,7 +29,7 @@ namespace Hotel.Services.Impl
         {
             Cart c = ServiceUtils.GetEntity<BookingHolder, Cart>(HolderRepository, cartId);
 
-            Place p = ServiceUtils.GetEntity(RoomRepository, booking.BookedPlaceId);
+            Place p = ServiceUtils.GetPlace(RoomRepository, HallRepository, booking.BookedPlaceId);
 
             BookingPeriod bp = ModelBuilder.BuildPeriod(booking.BookingPeriod);
 
@@ -43,24 +43,18 @@ namespace Hotel.Services.Impl
 
            
 
-            Booking b = new Booking(Guid.NewGuid(), bp, 
-                ServiceUtils.GetPlace(RoomRepository, HallRepository, booking.BookedPlaceId),
+            Booking b = new Booking(booking.Id, bp, 
+                p,
                 booking.Name, booking.Surname, booking.Middlename);
 
-            c.AddBooking( b );
-
-           
+            c.AddBooking( b );          
         }
 
         public void Clear ( Guid cartId )
         {
-           
-
             Cart c = ServiceUtils.GetEntity<BookingHolder, Cart>(HolderRepository, cartId);
 
             c.Clear();
-
-           
         }
 
         public void DeleteItem ( Guid cartId, Guid bookingId )

@@ -8,43 +8,36 @@ namespace Hotel.Utils
 {
     public class Date:IComparable
     {
-        private static byte[] _daysInMonths = new byte[] { 29, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+        //private static byte[] _daysInMonths = new byte[] { 29, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
-        public byte Day { get; set; }
-        public byte Month { get; set; }
-        public int Year { get; set; }
+        private DateTime _date;
 
-        private bool IsValid (  )
+
+        public int Day
         {
-            if ( Day > 31 || Month > 12 )
-                return false;
-
-            if ( ( Month == 4 || Month == 6 || Month == 9 || Month == 11 ) && Day > 30 )
-                return false;
-
-            if ( IsLeapYear() && Month == 2 && Day > 29 )
-                return false;
-
-            if ( !IsLeapYear() && Month == 2 && Day > 28 )
-                return false;
-
-            return true;
+            get { return _date.Day; }
         }
+
+        public int Month
+        {
+            get { return _date.Month; }
+        }
+
+        public int Year
+        {
+            get { return _date.Year; }
+        }
+
 
         protected Date () { }
 
-        public Date ( byte day, byte month, int year )
+        public Date ( int day, int month, int year )
         {
-            Day = day;
-            Month = month;
-            Year = year;
-
-            if ( !IsValid() )
-                throw new ArgumentException( "Invalid date" );
+            _date = new DateTime( year, month, day );
         }
 
         public Date ( string day, string month, string year )
-            :this(Convert.ToByte(day), Convert.ToByte(month), Convert.ToInt32(year))
+            :this(Convert.ToInt32( day), Convert.ToInt32( month), Convert.ToInt32(year))
         {
                         
         }
@@ -56,100 +49,33 @@ namespace Hotel.Utils
             if ( tokens.Count() != 3 )
                 throw new ArgumentException();
 
-            Day = Convert.ToByte( tokens [ 0 ] );
-            Month = Convert.ToByte( tokens [ 1 ] );
-            Year = Convert.ToInt32( tokens [ 2 ] );
+            _date = new DateTime( Convert.ToInt32( tokens [ 0 ] ),
+                                  Convert.ToInt32( tokens [ 1 ] ),
+                                  Convert.ToInt32( tokens [ 2 ] ) );
 
-            if ( !IsValid() )
-                throw new ArgumentException("Invalid date");
+            
         }
+
+        public Date ( DateTime dt )
+        {
+            _date = dt;
+        }
+
 
         public bool IsLeapYear ()
         {
-            return ( ( Year % 4 == 0 && Year % 100 != 0 ) || ( Year % 400 == 0 ) );
+            return DateTime.IsLeapYear(Year);
         }
 
-        public int GetDaysInMonth ()
-        {
-            return _daysInMonths [ ( IsLeapYear() && Month == 2 ? 0 : Month ) ];
-        }
 
         public Date AddDays ( int days )
         {
-            int tmp = days;
-
-            Date newDate = new Date(Day, Month, Year);
-
-            while ( (tmp + Day) > newDate.GetDaysInMonth() )
-            {
-                tmp -= newDate.GetDaysInMonth() - newDate.Day + 1;
-
-                if ( newDate.Month == 0 )
-                    newDate.Month = 3;
-                else
-                    ++newDate.Month;
-
-                newDate.Day = 1;
-
-                if ( newDate.Month > 12 )
-                {
-                    ++newDate.Year;
-                    newDate.Month = 1;
-                }
-
-                if ( newDate.Month == 2 && newDate.IsLeapYear() )
-                    newDate.Month = 0;
-            }
-
-            newDate.Day += (byte)tmp;
-
-            return newDate;
+            return new Date( _date.AddDays( days ) );
         }
 
         public uint CountDays ( Date other )
         {
-            if ( this > other )
-                throw new ArgumentException();
-
-            if ( this == other )
-                return 0;
-
-            byte m = Month;
-            int y = Year;
-
-            uint res = 0;
-
-            while ( y <= other.Year )
-            {
-                while ( m != other.Month )
-                {
-                    res += _daysInMonths [ m ];
-
-                    if ( m == 0 )
-                        m = 3;
-
-                    if ( m == 1 && ( y % 4 == 0 && y % 100 != 0 ) || ( y % 400 == 0 ))
-                        m = 0;
-
-                    if ( m == 12 )
-                        m = 1;
-
-                    m++;
-                }
-
-                if ( y < other.Year )
-                {
-                    res += 365;
-
-                    if ( ( y % 4 == 0 && y % 100 != 0 ) || ( y % 400 == 0 ) )
-                        res += 1;
-                }
-                y++;
-            }
-
-            res += (uint)(_daysInMonths [ Month ] - Day + _daysInMonths [ other.Month ] - other.Day);
-
-            return res;
+            return ( uint ) Math.Abs( ( _date - other._date ).Days );
         }
 
         public static bool operator == ( Date first, Date second )
@@ -192,6 +118,7 @@ namespace Hotel.Utils
             return !( first > second );
         }
 
+
         public override bool Equals ( object obj )
         {
             if ( obj == null || !( obj is Date ) )
@@ -205,16 +132,19 @@ namespace Hotel.Utils
             return base.GetHashCode();
         }
 
+
         public override string ToString ()
         {
             return  ((Day < 10) ? "0": "") + Day.ToString() + "."
                 + ((Month < 10) ? "0" : "") + Month.ToString() + "." + Year.ToString();
         }
 
+
         public static Date GetToday ()
         {
-            return new Date((byte)DateTime.Today.Day, (byte)DateTime.Today.Month, DateTime.Today.Year);
+            return new Date( DateTime.Now );
         }
+
 
         public int CompareTo ( Date date )
         {
@@ -242,8 +172,6 @@ namespace Hotel.Utils
         private static byte _minLimit = 0;
         private static byte _maxLimit = 200;
 
-        protected BookingDate () { }
-
         private bool IsValid ( )
         {
             if ( GetToday().AddDays( _minLimit ) > this )
@@ -255,7 +183,9 @@ namespace Hotel.Utils
             return true;
         }
 
-        public BookingDate ( byte day, byte month, int year )
+        protected BookingDate () { }
+
+        public BookingDate ( int day, int month, int year )
             :base(day, month, year)
         {
             if ( !IsValid() )
@@ -281,6 +211,13 @@ namespace Hotel.Utils
         {
             if ( !IsValid() )
                 throw new ArgumentException("Wrong range");
+        }
+
+        public BookingDate ( DateTime dt )
+            : base( dt )
+        {
+            if ( !IsValid() )
+                throw new ArgumentException( "Wrong range" );
         }
 
         public static Date GetMax ()
@@ -316,7 +253,7 @@ namespace Hotel.Utils
 
         protected DateOfBirth () { }
 
-        public DateOfBirth ( byte date, byte month, int year )
+        public DateOfBirth ( int date, int month, int year )
             : base( date, month, year )
         {
             if ( !IsValid() )
@@ -332,6 +269,13 @@ namespace Hotel.Utils
 
         public DateOfBirth ( string date )
             : base( date )
+        {
+            if ( !IsValid() )
+                throw new ArgumentException( "Wrong range" );
+        }
+
+        public DateOfBirth ( DateTime dt )
+            : base( dt )
         {
             if ( !IsValid() )
                 throw new ArgumentException( "Wrong range" );

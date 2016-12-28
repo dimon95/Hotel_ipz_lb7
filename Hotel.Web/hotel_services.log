@@ -1560,3 +1560,67 @@ EventId : 3, Level : Informational, Message : Invoking method IAccountService.In
 
 EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-15T19:46:38.5890976Z, ProcessId : 5588, ThreadId : 4780
 
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:07.6407307Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:27.8711235Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.GetRooms, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:37.9413298Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IRoomService.GetRooms finished, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:38.0938997Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.GetRooms, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:38.0948965Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IRoomService.GetRooms finished, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:38.0968962Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:43.9973087Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:44.0083056Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 3, Level : Informational, Message : Invoking method IPlaceService`1.ChangeDescription, Payload : [serviceName : IPlaceService`1] [methodName : ChangeDescription] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:58.2253081Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IPlaceService`1.ChangeDescription finished, Payload : [serviceName : IPlaceService`1] [methodName : ChangeDescription] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:58.2573040Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IPlaceService`1.ChangePrice, Payload : [serviceName : IPlaceService`1] [methodName : ChangePrice] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:58.2583044Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IPlaceService`1.ChangePrice finished, Payload : [serviceName : IPlaceService`1] [methodName : ChangePrice] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:58.2658097Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IDomainEntityService`1.View, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:58.2668106Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IDomainEntityService`1.View finished, Payload : [serviceName : IDomainEntityService`1] [methodName : View] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:58.2698124Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.SetCriteria, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:58.2993562Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IRoomService.SetCriteria finished, Payload : [serviceName : IRoomService] [methodName : SetCriteria] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:58.6212075Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.GetRooms, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:58.6361693Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 4, Level : Informational, Message : Method IRoomService.GetRooms finished, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:58.6401703Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.GetRooms, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:14:58.6401703Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 4, Level : Informational, Message : Method IRoomService.GetRooms finished, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:14:58.6451714Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.GetRooms, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:15:56.4252048Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IRoomService.GetRooms finished, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:15:56.4282041Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IRoomService.GetRooms, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:15:56.4282041Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IRoomService.GetRooms finished, Payload : [serviceName : IRoomService] [methodName : GetRooms] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:15:56.4302026Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.GetHalls, Payload : [serviceName : IHallService] [methodName : GetHalls] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:15:59.3511646Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 4, Level : Informational, Message : Method IHallService.GetHalls finished, Payload : [serviceName : IHallService] [methodName : GetHalls] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:15:59.3601625Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 3, Level : Informational, Message : Invoking method IPlaceService`1.DeletePlace, Payload : [serviceName : IPlaceService`1] [methodName : DeletePlace] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:16:06.7865565Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 4, Level : Informational, Message : Method IPlaceService`1.DeletePlace finished, Payload : [serviceName : IPlaceService`1] [methodName : DeletePlace] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:16:07.0418438Z, ProcessId : 11980, ThreadId : 10504
+
+EventId : 3, Level : Informational, Message : Invoking method IHallService.GetHalls, Payload : [serviceName : IHallService] [methodName : GetHalls] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:16:07.0603903Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IHallService.GetHalls finished, Payload : [serviceName : IHallService] [methodName : GetHalls] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:16:07.0633929Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 3, Level : Informational, Message : Invoking method IAccountService.Indentify, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodStartedInfo, Timestamp : 2016-12-16T14:16:36.9944892Z, ProcessId : 11980, ThreadId : 1836
+
+EventId : 4, Level : Informational, Message : Method IAccountService.Indentify finished, Payload : [serviceName : IAccountService] [methodName : Indentify] , EventName : ServiceMethodFinishedInfo, Timestamp : 2016-12-16T14:16:37.1513767Z, ProcessId : 11980, ThreadId : 1836
+

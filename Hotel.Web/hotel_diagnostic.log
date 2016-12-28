@@ -292,3 +292,5 @@ EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , Eve
 
 EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-15T19:58:12.9371461Z, ProcessId : 10936, ThreadId : 6312
 
+EventId : 1, Level : Informational, Message : Startup succeeded, Payload : , EventName : StartupSucceededInfo, Timestamp : 2016-12-16T14:00:14.9918741Z, ProcessId : 11980, ThreadId : 11592
+
